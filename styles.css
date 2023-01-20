@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table {
+	width:80%;
+	border:1px solid green;
+	border-collapse:collapse;
+}
+td,th{
+	border:1px solid;
+}
